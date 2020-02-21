@@ -217,3 +217,8 @@ Through the usage of [Gimmicks][gimmicks], which are like plugins, you can add m
   [gfm]: http://github.github.com/github-flavored-markdown/
   [markdown]: http://daringfireball.net/projects/markdown/
 
+![](https://drive.google.com/file/d/11zgef7fEnwNbKGT25Nz0SATrXhfbMCFo/view?usp=sharing)
+![](https://drive.google.com/file/d/11zgef7fEnwNbKGT25Nz0SATrXhfbMCFo/view?usp=sharing)
+![](https://drive.google.com/file/d/11zgef7fEnwNbKGT25Nz0SATrXhfbMCFo/view?usp=sharing)
+![](https://drive.google.com/file/d/11zgef7fEnwNbKGT25Nz0SATrXhfbMCFo/view?usp=sharing)
+![](https://drive.google.com/file/d/11zgef7fEnwNbKGT25Nz0SATrXhfbMCFo/view?usp=sharing)
