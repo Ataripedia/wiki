@@ -4,6 +4,7 @@ Overview
 --------
 
 The STacy was Atari's first attempt at a portable ST computer.
+![](STacy1.png)
 
 MDWiki uses [Markdown][markdown] as a markup language. No knowledge of HTML or CSS is required to construct a website.
 
