@@ -5,6 +5,14 @@ Overview
 
 The STacy was Atari's first attempt at a portable ST computer. It was announced in 1987, shortly after the [Mega ST](atari_mega_st.md), with which the STacy shares a lot of its architecture, came to market. However, it took until 1989 for the STacy to become available.
 
+
+
+> The secret to creativity is knowing how to hide your sources. 
+> -- <cite>[Albert Einstein][1]</cite>
+
+[1]:http://www.quotedb.com/quotes/2112
+
+
 - - - -
 
 Distinguishing Features
