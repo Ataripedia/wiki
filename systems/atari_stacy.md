@@ -7,6 +7,23 @@ The STacy was Atari's first attempt at a portable ST computer. It was announced 
 
 - - - -
 
+Distinguishing Features
+-----------------------
+
+Compared to an original 520ST, the STacy had the following additional features:
+
+* Built-in monochrome screen
+* "Shadow" LCD Driver chip with 32KB VRAM 
+* Blitter
+* SCSI (Same as the [Mega STe](atari_mega_ste.md))
+* TOS 1.04
+* Integrated trackball
+* Internal 720K Floppy Drive
+* Optional internal SCSI Hard Drive
+* Internal speaker and volume control
+
+- - - -
+
 Development
 -----------
 
