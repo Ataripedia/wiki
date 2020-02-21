@@ -23,12 +23,33 @@
 [Systems]()
 
   * # 16bit Computers
+  * [Atari ST/M/F/FM](systems/atari_st.md)
+  * [Atari STe](systems/atari_ste.md)
+  * [Atari Mega ST](systems/atari_mega_st.md)
+  * [Atari Mega STe](systems/atari_mega_ste.md)
+  * [Atari Stacy](systems/atari_stacy.md)
+  * [Atari ST Book](systems/atari_st_book.md)
   - - - -
-  * [SubMenu Item 1](pages/about.md)
-  * [SubMenu Item 2](pages/about.md)
-
+  * # 32bit Computers
+  * [Atari TT030](systems/atari_tt.md)
+  * [Atari Falcon](systems/atari_falcon.md)
   
-[Download](pages/download.md)
+[Hardware]()
+
+  * [Accelerators](hardware/accelerators.md)
+
+[Software]()
+
+  * [OS](software/os.md)
+
+[Developer]()
+
+  * [Schematics](developer/schematics.md)
+  * [DIY](developer/diy.md)
+  
+[Download]()
+
+  * [OS](download/OS.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
