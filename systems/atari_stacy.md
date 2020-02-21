@@ -1,12 +1,9 @@
-Atari Stacy
+Atari STacy
 ===========
-
-Note: If you are already familiar with Markdown, you might want to look at [the source of this wiki][src], which is itself created with MDwiki.
-
-  [src]: https://github.com/Dynalon/mdwiki/tree/gh-pages
-
-Markdown
+Overview
 --------
+
+The STacy was Atari's first attempt at a portable ST computer.
 
 MDWiki uses [Markdown][markdown] as a markup language. No knowledge of HTML or CSS is required to construct a website.
 
