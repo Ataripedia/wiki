@@ -37,11 +37,11 @@ Articles
 Images
 ------
 
-![](https://en.wikipedia.org/wiki/Atari_STacy#/media/File:Atari-stacy-001.jpg)
-![](https://en.wikipedia.org/wiki/Atari_STacy#/media/File:Atari-stacy-002.jpg)
-![](https://en.wikipedia.org/wiki/Atari_STacy#/media/File:Atari-stacy-003.jpg)
-![](https://en.wikipedia.org/wiki/Atari_STacy#/media/File:Atari-stacy-004.jpg)
-![](https://en.wikipedia.org/wiki/Atari_STacy#/media/File:Atari-stacy-005.jpg)
-![](https://en.wikipedia.org/wiki/Atari_STacy#/media/File:Atari-stacy-006.jpg)
-![](https://en.wikipedia.org/wiki/Atari_STacy#/media/File:Atari-stacy-007.jpg)
-![](https://en.wikipedia.org/wiki/Atari_STacy#/media/File:Atari-stacy-008.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/b/b5/Atari-stacy-001.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/b/b5/Atari-stacy-002.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/b/b5/Atari-stacy-003.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/b/b5/Atari-stacy-004.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/b/b5/Atari-stacy-005.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/b/b5/Atari-stacy-006.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/b/b5/Atari-stacy-007.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/b/b5/Atari-stacy-008.jpg)
