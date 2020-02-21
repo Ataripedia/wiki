@@ -5,14 +5,6 @@ Overview
 
 The STacy was Atari's first attempt at a portable ST computer. It was announced in 1987, shortly after the [Mega ST](atari_mega_st.md), with which the STacy shares a lot of its architecture, came to market. However, it took until 1989 for the STacy to become available.
 
-
-
-> The secret to creativity is knowing how to hide your sources. 
-> -- <cite>[Albert Einstein][1]</cite>
-
-[1]:http://www.quotedb.com/quotes/2112
-
-
 - - - -
 
 Distinguishing Features
@@ -21,7 +13,7 @@ Distinguishing Features
 Compared to an original 520ST, the STacy had the following additional features:
 
 * Built-in monochrome screen
-* [Shadow](https://ataripedia.github.io/wiki/developer/chips/Shadow.png) `[1]` LCD Driver chip with 32KB VRAM 
+* [Shadow](https://ataripedia.github.io/wiki/developer/chips/Shadow.png) `1` LCD Driver chip with 32KB VRAM 
 * Blitter
 * SCSI (Same as the [Mega STe](atari_mega_ste.md))
 * TOS 1.04
@@ -88,6 +80,7 @@ Images
 
 References
 ----------
+[1. Chips 'n' Chips](http://tho-otto.de/hypview/hypview.cgi?url=%2Fhyp%2Fchips_x.hyp&hideimages=0&hidemenu=0&charset=utf8) 
 
 - - - -
 
