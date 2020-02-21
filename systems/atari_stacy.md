@@ -24,7 +24,7 @@ Specifications
 
 Articles
 --------
-### ST World - Issue 46 - Dec 1989
+#### ST World - Issue 46 - Dec 1989
 
 ![](images/ST_World_1.jpg)
 ![](images/ST_World_2.jpg)
@@ -36,3 +36,12 @@ Articles
 
 Images
 ------
+
+![](https://en.wikipedia.org/wiki/Atari_STacy#/media/File:Atari-stacy-001.jpg)
+![](https://en.wikipedia.org/wiki/Atari_STacy#/media/File:Atari-stacy-002.jpg)
+![](https://en.wikipedia.org/wiki/Atari_STacy#/media/File:Atari-stacy-003.jpg)
+![](https://en.wikipedia.org/wiki/Atari_STacy#/media/File:Atari-stacy-004.jpg)
+![](https://en.wikipedia.org/wiki/Atari_STacy#/media/File:Atari-stacy-005.jpg)
+![](https://en.wikipedia.org/wiki/Atari_STacy#/media/File:Atari-stacy-006.jpg)
+![](https://en.wikipedia.org/wiki/Atari_STacy#/media/File:Atari-stacy-007.jpg)
+![](https://en.wikipedia.org/wiki/Atari_STacy#/media/File:Atari-stacy-008.jpg)
