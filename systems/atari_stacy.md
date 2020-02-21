@@ -37,9 +37,9 @@ Articles
 Images
 ------
 
-![](https://upload.wikimedia.org/wikipedia/commons/b/b5/Atari-stacy-001.jpg)
-![](https://upload.wikimedia.org/wikipedia/commons/b/b5/Atari-stacy-002.jpg)
-![](https://upload.wikimedia.org/wikipedia/commons/b/b5/Atari-stacy-003.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/d/db/Atari-stacy-001.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/e/e7/Atari-stacy-002.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/4/4d/Atari-stacy-003.jpg)
 ![](https://upload.wikimedia.org/wikipedia/commons/3/3a/Atari-stacy-004.jpg)
 ![](https://upload.wikimedia.org/wikipedia/commons/2/2e/Atari-stacy-005.jpg)
 ![](https://upload.wikimedia.org/wikipedia/commons/b/b9/Atari-stacy-006.jpg)
