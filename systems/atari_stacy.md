@@ -39,8 +39,9 @@ Specifications
 
 |           |Atari STacy Technical Details|
 |----------:|-------------|
+|OS   | TOS 1.04 (2x [TC571001](https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-X2/DSA627000207.pdf) or 28pin 1Mbit OTP ROM  |
 | CPU          |  	Motorola 68HC000 @ 8 MHz           |
-|   |   |
+|RAM   | 1MB, 2MB, or 4MB  |
 |   |   |
 |   |   |
 |   |   |
@@ -49,6 +50,17 @@ Specifications
 |   |   |
 |   |   |
 
+Memory	: 1 MiB (expandable to 4 MiB[4])
+ROM: 192 KiB
+Storage	3.5" floppy drive, 3.5" SCSI 20MB-40MB harddrive Conner Peripherals Inc.[5][6]
+Display	10.4" EPSON LCD passive matrix backlight
+Graphics	320x200 (16), 640x200 (4), 640x400 (2)
+Sound	Yamaha YM-2149, three channels, 8 octaves
+Input	95 keys, QWERTY, 2 Joysticks, RS 232C, Centronics, external Floppy, ROM-Cartridge, DMA for Printer/HD, MIDI In/Out, Monitor
+Power	NiCad pack, 12 standard C cell alkaline batteries, DC18V 2.0A 36W AC Adaptor
+Dimensions	13.3 x 15 x 13.3 inches
+Mass	15.2 lb
+Successor	ST BOOK
 - - - -
 
 Articles
