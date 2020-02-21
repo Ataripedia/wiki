@@ -37,7 +37,7 @@ Models
 Specifications
 --------------
 
-|Atari STacy|Specification|
+|           |Atari STacy Technical Details|
 |----------:|-------------|
 | CPU          |  	Motorola 68HC000 @ 8 MHz           |
 |   |   |
