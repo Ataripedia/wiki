@@ -37,7 +37,7 @@ Articles
 
 ![](images/STI1.png)
 ![](images/STI2.png)
-![](images/STI3.png)
+![](images/STI4.png)
 
 - - - -
 
