@@ -204,21 +204,11 @@ Currently the following languages are supported:
 |XML            |xml          |
 
 
-Gimmicks
+Articles
 --------
 
-Through the usage of [Gimmicks][gimmicks], which are like plugins, you can add much more dynamic elements into your wiki and use it in a very advanced way. See the [Gimmicks][gimmicks] page for a full reference.
-
-
-  [gimmicks]: gimmicks.md
-  [download]: download.md
-
-  [gfmsheet]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-  [gfm]: http://github.github.com/github-flavored-markdown/
-  [markdown]: http://daringfireball.net/projects/markdown/
-
-![](https://drive.google.com/file/d/11zgef7fEnwNbKGT25Nz0SATrXhfbMCFo/view?usp=sharing)
-![](https://drive.google.com/file/d/11zgef7fEnwNbKGT25Nz0SATrXhfbMCFo/view?usp=sharing)
-![](https://drive.google.com/file/d/11zgef7fEnwNbKGT25Nz0SATrXhfbMCFo/view?usp=sharing)
-![](https://drive.google.com/file/d/11zgef7fEnwNbKGT25Nz0SATrXhfbMCFo/view?usp=sharing)
-![](https://drive.google.com/file/d/11zgef7fEnwNbKGT25Nz0SATrXhfbMCFo/view?usp=sharing)
+![](ST_World_1.jpg)
+![](ST_World_2.jpg)
+![](ST_World_3.jpg)
+![](ST_World_4.jpg)
+![](ST_World_5.jpg)
