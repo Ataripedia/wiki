@@ -4,7 +4,6 @@ Overview
 --------
 
 The STacy was Atari's first attempt at a portable ST computer. It was announced in 1987, shortly after the [Mega ST](atari_mega_st.md), with which the STacy shares a lot of its architecture, came to market. However, it took until 1989 for the STacy to become available.
-![](images/STacy1.png?thumbnail)
 
 MDWiki uses [Markdown][markdown] as a markup language. No knowledge of HTML or CSS is required to construct a website.
 
@@ -208,8 +207,8 @@ Articles
 --------
 ### ST World - Issue 46 - Dec 1989
 
-![](ST_World_1.jpg)
-![](ST_World_2.jpg)
-![](ST_World_3.jpg)
-![](ST_World_4.jpg)
-![](ST_World_5.jpg)
+![](images/ST_World_1.jpg)
+![](images/ST_World_2.jpg)
+![](images/ST_World_3.jpg)
+![](images/ST_World_4.jpg)
+![](images/ST_World_5.jpg)
