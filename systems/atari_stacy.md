@@ -67,9 +67,9 @@ Note: Every memory configuration came with its own `daughterboard` or `sub-pcb`.
 
 Compatibility
 -------------
-<BR>
 
-#### TOS
+
+### TOS
 The TOS 1.04 that the STacy was shipped with is byte-identical to the TOS 1.04 on other models. It was speculated, that the Shadow chip would require additional signals and instructions to drive the LCD. That is not the case.
 
 Note: This means that TOS 2.06 upgrades designed for other systems should also work on the STacy. An example is shown [here](http://www.atariancomputing.com/blog/ataristacytos206upgrade).
@@ -102,18 +102,18 @@ Specifications
 
 Articles
 --------
-<BR>
 
-#### ST World - Issue 46 - Dec 1989
+
+### ST World - Issue 46 - Dec 1989
 
 ![](images/ST_World_1.jpg)
 ![](images/ST_World_2.jpg)
 ![](images/ST_World_3.jpg)
 ![](images/ST_World_4.jpg)
 ![](images/ST_World_5.jpg)
-<BR>
 
-#### START - Sep 1989
+
+### START - Sep 1989
 
 ![](images/STI1.png)
 ![](images/STI2.png)
