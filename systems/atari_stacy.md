@@ -70,6 +70,7 @@ Compatibility
 
 #### TOS
 
+
 The TOS 1.04 that the STacy was shipped with is byte-identical to the TOS 1.04 on other models. It was speculated, that the Shadow chip would require additional signals and instructions to drive the LCD. That is not the case.
 
 Note: This means that TOS 2.06 upgrades designed for other systems should also work on the STacy. An example is shown [here](http://www.atariancomputing.com/blog/ataristacytos206upgrade).
@@ -77,6 +78,7 @@ Note: This means that TOS 2.06 upgrades designed for other systems should also w
 Since the STacy supports 28 pin [mask ROMs](https://en.wikipedia.org/wiki/Mask_ROM), it is possible to install factory TOS 1.04 chips from another systems by just replacing the chips. This is useful if one wants to change the language of the TOS. This was confirmed by [Atarian Computing](https://www.atariancomputing.com) in the [Atari STacy Users](https://www.facebook.com/groups/371886416598852/) Facebook group. They were also able to confirm the the STacy booted up with TOS 1.02 ROMs. 
 
 #### Accelerators
+
 
 The STacy is known to work several accelerators. Most notably the PAK3-030. ICD's ADSpeed has also been a popular upgrade since the very beginning.
 
