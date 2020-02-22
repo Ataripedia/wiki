@@ -62,6 +62,20 @@ Note: Every memory configuration came with its own `daughterboard` or `sub-pcb`.
 * 2 MB: This PCB has the 2 MB soldered on in 16 x 1 Mbit SIP chips. Expandable to 4 MB with two 1 MB [SIPP](https://en.wikipedia.org/wiki/SIPP_memory) sticks.
 * 4 MB: This PCB has the 4 MB soldered on in 32 x 1 Mbit SIP chips.
 
+
+- - - -
+
+Compatibility
+-------------
+
+#### TOS
+
+The TOS 1.04 that the STacy was shipped with is byte-identical to the TOS 1.04 on other models. It was speculated, that the Shadow chip would require additional signals and instructions to drive the LCD. That is not the case.
+
+Note: This means that TOS 2.06 upgrades designed for other systems should also work on the STacy. An example is shown [here](http://www.atariancomputing.com/blog/ataristacytos206upgrade).
+
+Since the STacy supports 28 pin `mask ROMs`, it is possible to install factory TOS 1.04 chips from another systems by just replacing the chips. This is useful if one wants to change the language of the TOS. This was confirmed by [Atarian Computing](www.atariancomputing.com) in the [Atari STacy Users] 
+
 - - - -
 
 Specifications
