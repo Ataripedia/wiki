@@ -36,14 +36,14 @@ The STacy had three model names; `STacy`, `STacy 2`, and `STacy 4`, with the num
 
 There were, however, more models and configurations than that. The `Model ID`, found on a sticker on the bottom, reveals the actual configuration it came with from the Taiwanese factory. It's broken down like this:
 
-L
+**L
 S
 T
-|
-4 - The amount of RAM in MB
-1 - How many internal Floppy Drives (max two).
-4 - The size of the Hard Drive; 4 = 40 MB, 2 = 20 MB, 0 = No HD
-4 - Common number present in all STacy models and configurations.
+|**
+`4` - The amount of RAM in MB
+`1` - How many internal Floppy Drives (max two).
+`4` - The size of the Hard Drive; 4 = 40 MB, 2 = 20 MB, 0 = No HD
+**4** - Common number present in all STacy models and configurations.
 
 While twin floppy drive models are known to exist, by far the most common configuration was the single floppy drive with an internal hard drive.
 
