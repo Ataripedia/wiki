@@ -67,7 +67,7 @@ Note: Every memory configuration came with its own `daughterboard` or `sub-pcb`.
 
 Compatibility
 -------------
-
+<br>
 ##### TOS
 
 The TOS 1.04 that the STacy was shipped with is byte-identical to the TOS 1.04 on other models. It was speculated, that the Shadow chip would require additional signals and instructions to drive the LCD. That is not the case.
