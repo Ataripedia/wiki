@@ -7,8 +7,8 @@ The STacy was Atari's first attempt at a portable ST computer. It was announced 
 
 - - - -
 
-Distinguishing Features
------------------------
+Features
+--------
 
 Compared to an original 520ST, the STacy had the following additional features:
 
@@ -45,6 +45,9 @@ T
 4 - The size of the Hard Drive; 4 = 40 MB, 2 = 20 MB, 0 = No HD
 4 - Common number present in all STacy models and configurations.
 
+While twin floppy drive models are known to exist, by far the most common configuration was the single floppy drive with an internal hard drive.
+
+
 |Model Name|STacy   |STacy 2 |STacy 2 |STacy 4 |
 |----------|--------|--------|--------|--------|
 |Model ID  |LST-1104|LST-2204|LST-2124|LST-4144|
@@ -52,6 +55,12 @@ T
 |Floppy    |One 3.5"|Two 3.5"|One 3.5"|One 3.5"|
 |Hard Drive|N/A     |N/A     |20 MB   |40 MB   |
 
+
+Note: Every memory configuration came with its own daughterboard or sub-pcb.
+
+* 1 MB: This PCB has the 1 MB soldered on in 8 x 1 Mbit DIP chips. Not expandable without significant DIY skills.
+* 2 MB: This PCB has the 2 MB soldered on in 16 x 1 Mbit SIP chips. Expandable to 4 MB with two 1 MB [SIPP](https://en.wikipedia.org/wiki/SIPP_memory) sticks.
+* 4 MB: This PCB has the 2 MB soldered on in 32 x 1 Mbit SIP chips.
 
 - - - -
 
