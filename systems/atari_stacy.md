@@ -21,11 +21,14 @@ Compared to an original 520ST, the STacy had the following additional features:
 * Internal 720K Floppy Drive
 * Optional internal SCSI Hard Drive
 * Internal speaker and volume control
+* Internal RTC
 
 - - - -
 
 Development
 -----------
+
+The STacy started li
 
 - - - -
 
@@ -73,6 +76,10 @@ Note: This means that TOS 2.06 upgrades designed for other systems should also w
 
 Since the STacy supports 28 pin [mask ROMs](https://en.wikipedia.org/wiki/Mask_ROM), it is possible to install factory TOS 1.04 chips from another systems by just replacing the chips. This is useful if one wants to change the language of the TOS. This was confirmed by [Atarian Computing](https://www.atariancomputing.com) in the [Atari STacy Users](https://www.facebook.com/groups/371886416598852/) Facebook group. They were also able to confirm the the STacy booted up with TOS 1.02 ROMs. 
 
+#### Accelerators
+
+The STacy is known to work several accelerators. Most notably the PAK3-030. ICD's ADSpeed has also been a popular upgrade since the very beginning.
+
 - - - -
 
 Specifications
@@ -81,9 +88,9 @@ Specifications
 |           |Atari STacy Technical Details|
 |----------:|-------------|
 |OS   | TOS 1.04 (2x [TC571001](https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-X2/DSA627000207.pdf) or 28pin 1Mbit OTP ROM  |
-| CPU          |  	Motorola 68HC000 @ 8 MHz           |
+| CPU          |  	Motorola [68HC000](https://en.wikipedia.org/wiki/Motorola_68000#CMOS_versions) @ 8 MHz           |
 |RAM   | 1MB, 2MB, or 4MB  |
-|Storage   | 3.5" floppy drive, 3.5" SCSI 20MB-40MB harddrive Conner Peripherals Inc.[5][6]  |
+|Storage   | 3.5" floppy drive, 3.5" SCSI hard drive Conner CP3020 (20 MB) or CP3040 (40 MB) |
 |Display   |10.4" EPSON LCD passive matrix backlight   |
 | Sound  | Yamaha YM-2149, three channels, 8 octaves  |
 |Input   |   |
