@@ -60,7 +60,7 @@ Note: Every memory configuration came with its own `daughterboard` or `sub-pcb`.
 
 * 1 MB: This PCB has the 1 MB soldered on in 8 x 1 Mbit DIP chips. Not expandable without significant DIY skills.
 * 2 MB: This PCB has the 2 MB soldered on in 16 x 1 Mbit SIP chips. Expandable to 4 MB with two 1 MB [SIPP](https://en.wikipedia.org/wiki/SIPP_memory) sticks.
-* 4 MB: This PCB has the 2 MB soldered on in 32 x 1 Mbit SIP chips.
+* 4 MB: This PCB has the 4 MB soldered on in 32 x 1 Mbit SIP chips.
 
 - - - -
 
