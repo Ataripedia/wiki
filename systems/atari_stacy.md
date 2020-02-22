@@ -70,7 +70,7 @@ Compatibility
 <BR>
 
 #### TOS
-The TOS 1.04 that the STacy was shipped with is byte-identical to the TOS 1.04 on other models. It was speculated, that the Shadow chip would require additional signals and instructions to drive the LCD. That is not the case.
+The TOS 1.04 that the STacy was shipped with is byte-identical to the TOS 1.04 on other models. It was sometimes speculated, that the Shadow chip would require additional signals and instructions to drive the LCD. We now know that is not the case.
 
 Note: This means that TOS 2.06 upgrades designed for other systems should also work on the STacy. An example is shown [here](http://www.atariancomputing.com/blog/ataristacytos206upgrade).
 
