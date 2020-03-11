@@ -18,7 +18,7 @@ Compared to an original 520ST, the STacy had the following additional features:
 * SCSI (Same as the [Mega STe](atari_mega_ste.md))
 * TOS 1.04
 * Integrated trackball
-* Keyboard with [Mitsumi KPQ Hybrid Tactile Switches](https://deskthority.net/wiki/Mitsumi_KPQ_Type) (same as Mega STE/TT)
+* Keyboard with [Mitsumi KPQ](https://deskthority.net/wiki/Mitsumi_KPQ_Type) Hybrid Tactile Switches (same as Mega STE/TT)
 * Internal 720K Floppy Drive
 * Optional internal SCSI Hard Drive
 * Internal speaker and volume control
