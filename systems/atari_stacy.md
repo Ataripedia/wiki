@@ -78,11 +78,11 @@ Since the STacy supports 28 pin [mask ROMs](https://en.wikipedia.org/wiki/Mask_R
 <BR>
 
 #### Accelerators
-The STacy is known to work with several accelerators. Most notably the PAK3-030. ICD's ADSpeed has also been a popular upgrade since the very beginning.
+The STacy is known to work with several accelerators. Most notably the PAK68/3. ICD's ADSpeed has also been a popular upgrade since the very beginning.
 
 At best, adding an accelerator to the STacy would require the CPU to be removed and replaced with either a socket or the accelerator. Using an accelerator on a socket would almost certainly require the the DC-DC converter to be raised up a few mm using port extenders. This, in turn would require the removal of the metal shielding inside STacy.
 
-Installing a PAK3-030 would require a socket and a complete relocation of the DC-DC converter using cables. Although no known attempts have been made with the STacy, it is conceivable to use a CPU relocater to have the accelerator elsewhere while retaining the DC-DC converter in its original location. While this is known to work in other machines, notably in Amigas using TF53X-series accelerators, it is doubtful the PAK3-030 would run fast or stable on an extender.
+Installing a PAK3-030 would require a socket and a complete relocation of the DC-DC converter using cables. Although no known attempts have been made with the STacy, it is conceivable to use a CPU relocater to have the accelerator elsewhere while retaining the DC-DC converter in its original location. While this is known to work in other machines, notably in Amigas using TF53X-series accelerators, it is doubtful the PAK68/3 would run fast or stable on an extender.
 
 - - - -
 
