@@ -14,7 +14,6 @@ Compared to an original 520ST, the STacy had the following additional features:
 
 * Built-in monochrome screen
 * [Shadow](http://tho-otto.de/hypview/hypview.cgi?url=%2Fhyp%2Fchips_x.hyp&charset=UTF-8&index=479) LCD Driver chip with 32KB [VRAM](https://web.mit.edu/6.115/www/document/62256.pdf) 
-* Blitter
 * SCSI (Same as the [Mega STe](atari_mega_ste.md))
 * TOS 1.04
 * Integrated trackball
