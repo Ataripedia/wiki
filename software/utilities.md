@@ -4,7 +4,12 @@ XBoot III
 --------
 
 ![](images/XBoot/XbootIII.png)
-To the right you will find two images, that are floated. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent 
+|Model Name|STacy   |STacy 2 |STacy 2 |STacy 4 |
+|----------|--------|--------|--------|--------|
+|Model ID  |LST-1104|LST-2204|LST-2124|LST-4144|
+|RAM       |1 MB    |2 MB    |2 MB    |4 MB    |
+|Floppy    |One 3.5"|Two 3.5"|One 3.5"|One 3.5"|
+|Hard Drive|N/A     |N/A     |20 MB   |40 MB   |
 ![](images/XBoot/XbootIII.png)
 
 - - - -
