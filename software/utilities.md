@@ -4,7 +4,7 @@ XBoot III
 --------
 
 |Model Name|Developer: Gribnif|<img src="images/XBoot/XbootIII.png" width=25% align=right>|
-|          |Will:   This work?|                                                           |
+
 
 |Model ID  |LST-1104|LST-2204|
 
