@@ -41,6 +41,7 @@
 [Software]()
 
   * [OS](software/os.md)
+  * [Utilities](software/utilities.md)
 
 [Developer]()
 
