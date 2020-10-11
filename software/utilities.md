@@ -4,6 +4,7 @@ XBoot III
 --------
 
 <img src="images/XBoot/XbootIII.png" width=25% align=left>
+
 |Will this|work|
 |---|---|
 |   wewede   |if I|
