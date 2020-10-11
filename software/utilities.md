@@ -8,10 +8,8 @@ XBoot III
 |---|---|
 |   wewede   |if I|
 |Will this|work|
-|---|---|
 |   wewede   |if I|
 |Will this|work|
-|---|---|
 |   wewede   |if I|
 
 
