@@ -3,7 +3,9 @@ Utilities
 XBoot III
 --------
 
-<img src="images/XBoot/XbootIII.png" width=25% align=left>
+<img src="images/XBoot/XbootIII.png" width=25% align=left> Fine:  What about
+Doing:  It like
+This: ?
 
 |Will this|work|
 |---|---|
