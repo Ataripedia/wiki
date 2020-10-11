@@ -2,10 +2,12 @@ Utilities
 ===========
 XBoot III
 --------
-![](images/XBoot/XbootIII.png)
+
 |Will this|work|at all|
 |---|---|---|
 |      |if I|do this|
+![](images/XBoot/XbootIII.png)
+
 
 <img src="images/XBoot/XbootIII.png" width=25% align=left>
 
